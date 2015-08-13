@@ -7,7 +7,7 @@ Author: Renzo Johnson
 Author URI: http://renzojohnson.com/
 Text Domain: cms-blocks
 Domain Path: /languages/
-Version: 0.0.1
+Version: 0.0.2
 */
 
 /*  Copyright 2015 Renzo Johnson (email: renzo.johnson at gmail.com)
@@ -27,7 +27,7 @@ Version: 0.0.1
     Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
-define( 'wpcmsb_VERSION', '0.0.1' );
+define( 'wpcmsb_VERSION', '0.0.2' );
 
 define( 'wpcmsb_REQUIRED_WP_VERSION', '0.0' );
 

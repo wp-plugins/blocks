@@ -1,4 +1,4 @@
-=== CMS Block 1 ===
+=== Blocks ===
 Contributors: rnzo
 Donate link: http://renzojohnson.com/contributions/blocks
 Tags: block, content management block, cms block, reusable block, snippet block, multilingual
@@ -62,7 +62,7 @@ Do you have questions or issues with Blocks? Use these support channels appropri
 
 For more information, see [Releases](http://renzojohnson.com/contributions/blocks).
 
-= 0.0.1 =
+= 0.0.2 =
 
 * Release version
 
