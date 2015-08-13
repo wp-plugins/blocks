@@ -1,7 +1,7 @@
 === Blocks ===
 Contributors: rnzo
 Donate link: http://renzojohnson.com/contributions/blocks
-Tags: block, content management block, cms block, reusable block, snippet block, multilingual, cme, renzo
+Tags: blocks, block, content management block, cms block, reusable block, snippet block, multilingual, cme, renzo
 Requires at least: 4.0
 Tested up to: 4.3
 Stable tag: 4.0
