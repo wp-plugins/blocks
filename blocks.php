@@ -2,12 +2,12 @@
 /*
 Plugin Name: Blocks
 Plugin URI: http://renzojohnson.com/contributions/blocks
-Description: Simple and flexible content management block.
+Description: Simple and flexible content management block with a [shortcode].
 Author: Renzo Johnson
 Author URI: http://renzojohnson.com/
-Text Domain: cms-blocks
+Text Domain: blocks
 Domain Path: /languages/
-Version: 0.0.5
+Version: 0.0.6
 */
 
 /*  Copyright 2015 Renzo Johnson (email: renzo.johnson at gmail.com)
@@ -27,7 +27,7 @@ Version: 0.0.5
     Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
-define( 'wpcmsb_VERSION', '0.0.5' );
+define( 'wpcmsb_VERSION', '0.0.6' );
 
 define( 'wpcmsb_REQUIRED_WP_VERSION', '0.0' );
 
