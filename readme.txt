@@ -39,7 +39,7 @@ If this plugin is useful to you, please leave a review for the [Web Developer](h
 
 == Installation ==
 
-1. Upload the entire [wordpress 'blocks'] (http://renzojohnson.com) folder to the '/wp-content/plugins/' directory.
+1. Upload the entire [wordpress 'blocks'](http://renzojohnson.com) folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 After the plugin is activated You will find 'Blocks' menu item in the admin menu right under pages and posts.
