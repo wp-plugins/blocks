@@ -64,7 +64,7 @@ Do you have questions or issues with Blocks? Use these support channels appropri
 
 For more information, see [Releases](http://renzojohnson.com/contributions/blocks).
 
-= 0.0.4 =
+= 0.0.5 =
 
 * Release version
 
