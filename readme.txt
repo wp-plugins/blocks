@@ -39,10 +39,10 @@ If this plugin is useful to you, please leave a review for the [Web Developer](h
 
 == Installation ==
 
-1. Upload the entire 'contact-form-7-mail-chimp-extension' folder to the '/wp-content/plugins/' directory.
+1. Upload the entire 'blocks' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
-You will find 'Blocks' menu item in the admin manu.
+After the plugin is activated You will find 'Blocks' menu item in the admin menu right under pages and posts.
 
 
 == Frequently Asked Questions ==
@@ -53,7 +53,7 @@ Do you have questions or issues with Blocks? Use these support channels appropri
 2. [Blocks FAQ](http://renzojohnson.com/contributions/blocks)
 3. [Blocks Support Forum](http://renzojohnson.com/contributions/blocks)
 4. [Developer's website](http://renzojohnson.com)
-5. [Wordpress Support](http://renzojohnson.com/contributions/blocks)
+5. [Wordpress Support](http://renzojohnson.com)
 
 == Screenshots ==
 
