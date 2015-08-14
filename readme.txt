@@ -52,9 +52,8 @@ Do you have questions or issues with Blocks? Use these support channels appropri
 1. [Blocks Docs](http://renzojohnson.com/contributions/blocks)
 2. [Blocks FAQ](http://renzojohnson.com/contributions/blocks)
 3. [Blocks Support Forum](http://renzojohnson.com/contributions/blocks)
-3. [Developer's website](http://renzojohnson.com)
-
-[Support](http://renzojohnson.com/contributions/blocks)
+4. [Developer's website](http://renzojohnson.com)
+5. [Wordpress Support](http://renzojohnson.com/contributions/blocks)
 
 == Screenshots ==
 
