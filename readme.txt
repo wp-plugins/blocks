@@ -20,7 +20,7 @@ Simple and flexible content management block. Generate [shortcode] for content t
 * Easy to use
 * Reusable content blocks with a simple [shortcode]
 * Paste the [shortcode] to anywhere you want the block content to be displayed.
-* Edit your block in one place and it will be updated everywhere you had your [shortcode] paste.
+* Edit your block in one place and it will be updated everywhere you had your [shortcode].
 
 = Please note*** =
 
@@ -52,6 +52,7 @@ Do you have questions or issues with Blocks? Use these support channels appropri
 1. [Blocks Docs](http://renzojohnson.com/contributions/blocks)
 2. [Blocks FAQ](http://renzojohnson.com/contributions/blocks)
 3. [Blocks Support Forum](http://renzojohnson.com/contributions/blocks)
+3. [Developer's website](http://renzojohnson.com)
 
 [Support](http://renzojohnson.com/contributions/blocks)
 
