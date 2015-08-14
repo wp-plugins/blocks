@@ -34,7 +34,7 @@ Simple and flexible content management block. Generate [shortcode] for content t
 
 = Leave a Comment or a Review =
 
-If this plugin is useful to you, please leave a review.
+If this plugin is useful to you, please leave a review. [Web Developer](http://renzojohnson.com)
 
 
 == Installation ==
