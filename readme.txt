@@ -8,18 +8,19 @@ Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple and flexible content management block.
+Simple and flexible content management block with a [shortcode].
 
 == Description ==
 
-Simple and flexible content management block.
+Simple and flexible content management block. Generate [shortcode] for content that will be repeated in various areas of your website. Write once, paste your [shortcode] everywhere you want it to be displayed!
 
 
 = Key Features =
 
 * Easy to use
-* reusable content blocks with [shortcodes]
-* paste the generated [shortcodes] to anywhere you want the block content added.
+* Reusable content blocks with a simple [shortcode]
+* Paste the generated [shortcode] to anywhere you want the block content to be displayed.
+* Edit your block content in one place and it will be updated everywhere you had your [shortcode].
 
 = Please note*** =
 
@@ -29,6 +30,7 @@ Simple and flexible content management block.
 = Requirements =
 
 1. Self hosted WordPress.org installation (4.0 or higher)
+2. PHP 5.4
 
 = Leave a Comment or a Review =
 
