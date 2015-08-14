@@ -19,8 +19,8 @@ Simple and flexible content management block. Generate [shortcode] for content t
 
 * Easy to use
 * Reusable content blocks with a simple [shortcode]
-* Paste the generated [shortcode] to anywhere you want the block content to be displayed.
-* Edit your block content in one place and it will be updated everywhere you had your [shortcode].
+* Paste the [shortcode] to anywhere you want the block content to be displayed.
+* Edit your block in one place and it will be updated everywhere you had your [shortcode] paste.
 
 = Please note*** =
 
